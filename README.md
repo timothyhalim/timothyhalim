@@ -1,6 +1,6 @@
 ![Hi, I'm Timothy Halim]
 
-Hi, I'm Timothy. I'm currently a Pipeline TD in Indonesia 🇮🇩. I'm also an artist, and previously worked as a Lighting and Compositing Supervisor. My skills are a good mix of art and technology, because I like to speed up my and my team content creation workflows. It always makes me happy to be able to help the team work easier.
+Hi, I'm Timothy. I'm currently a Pipeline TD in Indonesia 🇮🇩. I'm also an artist, and previously worked as a Lighting and Compositing Supervisor. My skills are a good mix of art and technology, because I like to speed up me and my team content creation workflows. It always makes me happy to be able to help the team work easier.
 
 Currently learning about C++ and developing pipeline for blender.
 
