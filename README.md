@@ -1,16 +1,32 @@
-### Hi there 👋
+![Hi, I'm Timothy Halim]
+
+Hi, I'm Timothy. I'm currently a Pipeline TD in Indonesia 🇮🇩. I'm also an artist, and previously worked as a Lighting and Compositing Supervisor. My skills are a good mix of art and technology, because I like to speed up my and my team content creation workflows. It always makes me happy to be able to help the team work easier.
+
+Currently learning about C++ and developing pipeline for blender.
 
 <!--
-**timothyhalim/timothyhalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Notable Work
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<table>
+    <tr>
+        <td width="33%">
+            <img src="https://developer.apple.com/app-clips/images/icon-app-clip-codes.svg" alt="App Clip Code">
+            <a href="https://developer.apple.com/app-clips/"><br/>App Clip Code</a><br/>
+            Responsible for creating the generator, early visual designs and worked on demo content.
+        </td>
+        <td width="33%">
+            <img src="https://raw.githubusercontent.com/dgovil/dgovil/main/images/smallfoot.jpg" alt="SmallFoot"><br/>
+            <b>SmallFoot</b><br/>
+            Pipeline Supervisor (One of Two).
+        </td>
+        <td width="33%">
+            <img src="https://raw.githubusercontent.com/dgovil/dgovil/main/images/Homecoming.png" alt="Spider-Man: Homecoming"><br/>
+            <b>Spider-Man: Homecoming</b><br/>
+            Pipeline and Layout Supervisor.
+        </td>
+    </tr>
+    
+</table>
 -->
+
+
